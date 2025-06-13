@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Data Science**
 
-- 💬 Ask me about **C,C++,Python**
+- 💬 Ask me about **C,Java,Python,Sql**
 
 - 📫 How to reach me **kaniket0814@gmail.com**
 
